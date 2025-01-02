@@ -1,0 +1,5 @@
+*.log
+*.tmp
+
+# Ignore my_folder
+raw_data/
